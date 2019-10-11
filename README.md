@@ -12,11 +12,8 @@ Notebooks will be uploaded for each support class.
 - simulation with closed boundary conditions (reflects at 10 and 0)
 
 `Support Class 2.ipynb`
-- Geometric random walk
-- ergodic average 
+- Polya urn model
 - empirical tail (1 - CDF)
-- Wright-fisher model ( heatmaps)
-- time to reach steady state
 - Gershgorin disk theorem 
 
 `Support Class 3.ipynb`
